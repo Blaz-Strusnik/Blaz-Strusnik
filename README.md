@@ -6,7 +6,8 @@
 ##### `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `JQuery`, `SQL`, `C#`, `Pyhton`, `PHP`, `.NET`, `NodeJS`, `React JS`, `Shopify & WooCommerce development`
 
 ## Contact
-* :globe_with_meridians: https://blaz-strusnik.github.io/
-* :globe_with_meridians: https://twitter.com/blaz_strusnik
-* :email: strusnik.blaz@gmail.com
+* :globe_with_meridians: Website: https://blaz-strusnik.github.io/
+* :globe_with_meridians: CV: https://blaz-strusnik.github.io/resume
+* :globe_with_meridians: Twitter: https://twitter.com/blaz_strusnik
+* :email: Email: strusnik.blaz@gmail.com
 
