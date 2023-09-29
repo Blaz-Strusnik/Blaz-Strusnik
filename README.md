@@ -8,6 +8,6 @@
 ## Contact
 * :globe_with_meridians: Website: https://blaz-strusnik.github.io/
 * :globe_with_meridians: CV: https://blaz-strusnik.github.io/resume
-* :globe_with_meridians: Twitter: https://twitter.com/blaz_strusnik
+* :globe_with_meridians: LinkedIn: https://www.linkedin.com/in/bla%C5%BE-stru%C5%A1nik
 * :email: Email: strusnik.blaz@gmail.com
 
